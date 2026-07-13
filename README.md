@@ -69,6 +69,7 @@ Different versions of the plugin support different combinations of Python and Ai
 
 | airflow-clickhouse-plugin version | Airflow version         | Python version     |
 |-----------------------------------|-------------------------|--------------------|
+| 1.8.0                             | \>=2.3.0,<3.4.0         | ~=3.10             |
 | 1.7.0                             | \>=2.3.0,<3.3.0         | ~=3.10             |
 | 1.6.0                             | \>=2.3.0,<3.2.0         | ~=3.10             |
 | 1.5.0                             | \>=2.1.0,<3.1.0         | ~=3.9              |
@@ -411,7 +412,7 @@ Community contributors:
 * Ward Gielis, [@wardgielis](https://github.com/wardgielis)
 * Maxim Martynov, [@dolfinus](https://github.com/dolfinus)
 * Rohith Reddy Kota, [@rohithreddykota](https://github.com/rohithreddykota)
-* [@A1EF](https://github.com/A1EF)
+* Viktor Priimachenko, [@A1EF](https://github.com/A1EF)
 
 
 [airflow]: https://airflow.apache.org/
